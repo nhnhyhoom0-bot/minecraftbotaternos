@@ -1,0 +1,7 @@
+{
+  "name": "Aternos Minecraft Bot",
+  "description": "بوت حقيقي لدخول سيرفرات ماين كرافت اتيرنوس (جافا وبيدروك) مع وحدة تحكم مباشرة، مضاد للطرد (Anti-AFK)، وشات السيرفر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
